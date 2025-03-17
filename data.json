@@ -1,0 +1,182 @@
+{
+    "candidates": [
+        {
+            "name": "Maria Rodriguez",
+            "email": "maria.rodriguez@mailinator.com",
+            "location": "San Francisco, CA",
+            "profile_id": "Ywz0RB45",
+            "description": "Senior-level software engineer with 8 years of experience in Java and Python, proficient in both front-end and back-end development.",
+            "resume": "https://www.volkscience.com/profile/Ywz0RB45?export=import/eightfolddemo-nformal.com/e51ceeb0f49089bfbb7052540a7847a8764a35caf2471e6cd0d5f0c7-240175062.docx",
+            "link profile": "https://www.volkscience.com/profile/Ywz0RB45",
+            "skills": "Data Visualization, Data Analytics, Spring, Apache, CSS, Python, Software Development, Computer Science, JavaScript, HTML, Java, Design",
+            "matched_position": [
+                {
+                    "locations": "Santa Monica,California,United States",
+                    "title": "Sr. Software Developer - Big Data",
+                    "finalScore": 4.0
+                }
+            ]
+        },
+        {
+            "name": "John Lee",
+            "email": "john.lee@mailinator.com",
+            "location": "New York City, NY",
+            "profile_id": "KLWzl01O",
+            "description": "Recent graduate in Data Science with skills in SQL, R, Python, and experience in data cleaning, visualization, and machine learning.",
+            "resume": "https://www.volkscience.com/profile/KLWzl01O?export=import/eightfolddemo-nformal.com/ee0dee05320bf9ab2d3d9dd786b0f264b827f112adf990aa20c61027-240175047.docx",
+            "link profile": "https://www.volkscience.com/profile/KLWzl01O",
+            "skills": "Data Cleaning, Regression Analysis, Sentiment Analysis, Statistical Analysis, Data Visualization, Data Science, Data Analytics, Machine Learning, Algorithms, Big Data, Python, SQL, Testing, Training, Research, MySQL",
+            "matched_position": [
+                {
+                    "locations": "Santa Monica,United States",
+                    "title": "Business Analyst",
+                    "finalScore": 3.5
+                }
+            ]
+        },
+        {
+            "name": "Yoojin Park",
+            "email": "yoojin.park@mailinator.com",
+            "location": "San Francisco, CA",
+            "profile_id": "DxbrANng",
+            "description": "Senior-level software engineer with over 10 years of experience in Java, Python, and JavaScript, specializing in large-scale data processing and real-time data analytics",
+            "resume": "https://www.volkscience.com/profile/DxbrANng?export=import/eightfolddemo-nformal.com/7eaaa7c4785c198c96568f80a91e0ba1ca6178399c49e4415566b8d0-240175094.docx",
+            "link profile": "https://www.volkscience.com/profile/DxbrANng",
+            "skills": "Data Analytics, Hadoop, Business Intelligence, Spring, Statistical Analysis, Apache, CSS, Python, Computer Science, JavaScript, HTML, Java, Leadership, Design",
+            "matched_position": [
+                {
+                    "locations": "Santa Monica,California,United States",
+                    "title": "Sr. Software Developer - Big Data",
+                    "finalScore": 4.0
+                }
+            ]
+        },
+        {
+            "name": "Emma Smith",
+            "email": "emma.smith@mailinator.com",
+            "location": "New York City, NY",
+            "profile_id": "DRqz3Zjo",
+            "description": "Senior-level data analyst with over 7 years of experience in SQL, Python, and Pandas, specializing in machine learning, algorithms, Tableau, and Power BI.",
+            "resume": "https://www.volkscience.com/profile/DRqz3Zjo?export=import/eightfolddemo-nformal.com/b33e151440308de6dae267b558938c312e3e950ad4ccf0070b4a37fd-240175044.docx",
+            "link profile": "https://www.volkscience.com/profile/DRqz3Zjo",
+            "skills": "Regression Analysis, Data Science, Data Visualization, Data Analytics, Statistical Analysis, Machine Learning, Python, Algorithms, SQL, Financial Analysis, Strategic Planning",
+            "matched_position": [
+                {
+                    "locations": "",
+                    "title": null,
+                    "finalScore": 4.5
+                }
+            ]
+        },
+        {
+            "name": "Alberto Lopez",
+            "email": "alberto.lopez@mailinator.com",
+            "location": "London, UK",
+            "profile_id": "Ywz0RBO5",
+            "description": "Senior-level marketing manager with over 12 years of experience in product marketing and brand management, specializing in the technology sector.",
+            "resume": "https://www.volkscience.com/profile/Ywz0RBO5?export=import/eightfolddemo-nformal.com/8c84cdaf5cfc5499167ff38f264b7498c368b4b7fec35029854bb886-240175018.docx",
+            "link profile": "https://www.volkscience.com/profile/Ywz0RBO5",
+            "skills": "Brand Management, Product Marketing, Marketing Strategy, Business Administration, Strategic Planning, Marketing Campaigns, Market Research",
+            "matched_position": [
+                {
+                    "locations": "San Jose,United States",
+                    "title": "Marketing Specialist, Global Accounts (Contractor)",
+                    "finalScore": 3.5
+                }
+            ]
+        },
+        {
+            "name": "David Lee",
+            "email": "david.lee@mailinator.com",
+            "location": "San Francisco, CA",
+            "profile_id": "YlNLJB3G",
+            "description": "Junior-level software engineer with 2 years of experience in Java, Python, HTML, and CSS, eager to learn and develop skills in data analytics and cloud platforms.",
+            "resume": "https://www.volkscience.com/profile/YlNLJB3G?export=import/eightfolddemo-nformal.com/27bb9d22509ac7559e7ecf9db97a1330e82c8cfa7c5ec4090664c097-240175021.docx",
+            "link profile": "https://www.volkscience.com/profile/YlNLJB3G",
+            "skills": "Data Analytics, User Interface, CSS, Python, Software Development, Computer Science, JavaScript, HTML, Java, Management",
+            "matched_position": [
+                {
+                    "locations": "Santa Monica,California,United States",
+                    "title": "Sr. Software Developer - Big Data",
+                    "finalScore": 4.0
+                }
+            ]
+        },
+        {
+            "name": "Ana Lopez",
+            "email": "ana.lopez@mailinator.com",
+            "location": "Mexico City, MX",
+            "profile_id": "D0kjbOPV",
+            "description": "Business analyst with 10 years of experience in finance, healthcare, and logistics, proficient in SQL and report creation, seeking a Senior Business Analyst role in Mexico City.",
+            "resume": "https://www.volkscience.com/profile/D0kjbOPV?export=import/eightfolddemo-nformal.com/56cc512c9b2870be43f19eabb644bfeb7f156c13a229aa14855abb36-240175014.docx",
+            "link profile": "https://www.volkscience.com/profile/D0kjbOPV",
+            "skills": "Business Analysis, Financial Analysis, Process Improvement, Business Requirements, Finance, Statistical Analysis, Risk Management, Planning, SQL, Business Administration, Healthcare, Presentation Skills, Patient Care, Logistics, Communication",
+            "matched_position": []
+        },
+        {
+            "name": "Marta Kim",
+            "email": "marta.kim@mailinator.com",
+            "location": "Madrid, Spain",
+            "profile_id": "XB2zeEkR",
+            "description": "Junior software engineer with 5 years of experience in Java, C++, C#, HTML, and CSS, completed a bachelor's degree in Telecommunications, seeking opportunities in Madrid.",
+            "resume": "https://www.volkscience.com/profile/XB2zeEkR?export=import/eightfolddemo-nformal.com/807cff8218499dc517d2567592aa616c3b160938297652b7d1581a26-240175066.docx",
+            "link profile": "https://www.volkscience.com/profile/XB2zeEkR",
+            "skills": "Teamwork, User Experience, Problem Solving, Telecommunications, CSS, Software Development, JavaScript, HTML, Java",
+            "matched_position": []
+        },
+        {
+            "name": "Carlos Alonso",
+            "email": "carlos.alonso@mailinator.com",
+            "location": "San Francisco, CA",
+            "profile_id": "DjLkv6ao",
+            "description": "Carlos Alonso is a highly accomplished professional with a Master of Business Administration from the Simon Graduate School of Business and a Bachelor of Engineering in Electronics and Communication Engineering. Possessing expertise in C, C++, Mat Lab, Oracle, and various BI tools, Carlos is a skilled professional with a Brown 1 Belt in IKYU Karate, reflecting his multifaceted talents.",
+            "resume": "https://eightfolddemo-nformal-SF DEMO.successfactors.com/candidate/5733",
+            "link profile": "https://www.volkscience.com/profile/DjLkv6ao?export=ats/successfactors/eightfolddemo-nformal-SF DEMO/attachments/Attachment-5733-8609.docx",
+            "skills": "Business Intelligence, User Experience, Data Architecture, Product Development, Market Research, Communication Engineering, Operations, Data Reporting, Telematics, Healthcare, Cognos",
+            "matched_position": [
+                {
+                    "locations": "Santa Monica,United States",
+                    "title": "Senior Financial Analyst - Subscriber Growth & Experience",
+                    "finalScore": 3.0
+                }
+            ]
+        },
+        {
+            "name": "Samantha Patel",
+            "email": "samantha.patel@mailinator.com",
+            "location": "London, UK",
+            "profile_id": "YM2GnrVy",
+            "description": "Results-driven marketing professional with 12 years of experience specializing in product marketing and brand management. Proven track record across technology, fashion, and consumer goods industries. Seeking a Senior Marketing Manager role in London to contribute strategic insights and innovative solutions.",
+            "resume": "https://www.volkscience.com/profile/YM2GnrVy?export=import/eightfolddemo-nformal.com/45d5b5cf8d2ac954bb91964930473a2113bd5a6f78b7254fbc728c74-240175084.docx",
+            "link profile": "https://www.volkscience.com/profile/YM2GnrVy",
+            "skills": "Customer Engagement, Brand Development, Brand Management, Product Marketing, Marketing Strategy, Product Development, Marketing Campaigns, Market Research, Leadership",
+            "matched_position": [
+                {
+                    "locations": "Edinburgh,United Kingdom",
+                    "title": "Strategic Account Manager- Scotland",
+                    "finalScore": 2.5
+                }
+            ]
+        }
+    ],
+    "positions": [
+        {
+            "title": "Full Stack Software Engineer",
+            "location": "San Francisco, CA, USA",
+            "position_id": "19381907",
+            "summary": "Seeking a Full Stack Software Engineer in San Francisco. Contribute to both front-end and back-end development using Java, Python, or JavaScript. Experience with large-scale data processing and real-time analytics is a plus."
+        },
+        {
+            "title": "Senior Data Analyst",
+            "location": "New York City, NY, USA",
+            "position_id": "19381864",
+            "summary": "Seeking a Senior Data Analyst in New York City with expertise in SQL, R, or Python. Proficiency in data analysis tools such as Tableau or Power BI is required. Experience in data cleaning, visualization, and machine learning is a significant advantage."
+        },
+        {
+            "title": "Senior Marketing Manager",
+            "location": "London, England, UK",
+            "position_id": "19381792",
+            "requirements": "Join as a Senior Marketing Manager in London with 8+ years of marketing experience, specializing in product marketing or brand management. Additional experience in technology, fashion, or consumer goods is a valuable asset."
+        }
+    ]
+}
