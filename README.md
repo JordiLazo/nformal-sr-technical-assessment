@@ -40,15 +40,14 @@ Each message should include:
 
 ## 📁 Project Structure
 
-```bash
-.
+```
 ├── main.py                  # Main Python script
 ├── api_matched_position.py  # For each candidate, it sends a GET request to Eightfold’s API using their profile_id
 ├── api_profiles.py          # It extracts Resume URL and Profile link and attached these fields as resume and link profile to each candidate in the JSON file
 ├── api_skills.py            # Retrieve each candidate’s skills based on their profile_id and joins the skills into a comma-separated string and Updates the skills field of each candidate in the data.json
 ├── data.json                # JSON with candidate & position data
 └── README.md                # This file
-
+```
 
 ## 📤 Example Slack Output
 🔎 Top Candidates for Data Scientist in Barcelona
