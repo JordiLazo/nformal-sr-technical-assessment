@@ -5,7 +5,7 @@ import json
 file_path = 'data.json'  # Replace with the correct path to your JSON file
 
 # Tokens and configurations
-EIGHTFOLD_TOKEN = "r6RQi9PSg6LLVfE8cusDisZa0rd0zcDeGNC2HKgoAF"
+EIGHTFOLD_TOKEN = "xoxb-xxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # Function to make the API request
 def get_matched_position(profile_id):
