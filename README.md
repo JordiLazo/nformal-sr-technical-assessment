@@ -55,14 +55,15 @@ Each message should include:
 Position Summary: Seeking a data-driven individual with Python, SQL, and ML skills.
 
 👤 Candidate 1: Alice Johnson (4.7/5.0)
+
 📍 Location: Madrid
+
 📝 Experienced data scientist with over 5 years of ML experience.
+
 🔗 View Profile | Download Resume
+
 🔧 Skills: Python, SQL, Machine Learning, Tableau
+
 ✅ 5 years of relevant experience, Strong skills in Python, SQL, Located in target location: Madrid
+
 ⚠️ Score of 4.7/5.0 indicates some alignment gaps with position requirements
-
-
-SLACK_TOKEN = "xoxb-your-slack-token"
-CHANNEL_ID = "#your-slack-channel"
-JSON_FILE_PATH = "data.json"
