@@ -8,7 +8,7 @@ from urllib.request import urlopen
 import certifi
 
 # Load configuration (in practice, these would be environment variables)
-SLACK_TOKEN = "xoxb-2230815169648-6264624429125-e2UYbe4xCWJuHVGXcjyWTFDE"
+SLACK_TOKEN = "xoxb-xxxxxxxxxxxxxxxxxxxxxxxxxx"
 CHANNEL_ID = "#recruiter-bot-jordilazo"
 
 # Initialize Slack client
